@@ -70,7 +70,7 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start */
+/* Hero Style Starts */
 .hero {
     background-image: url(../images/hero-bg.jpeg);
     height: 600px;
@@ -190,7 +190,7 @@ section {
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
-    overflow:auto
+    overflow:auto;
 }
 
 .trainer img {
